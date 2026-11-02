@@ -89,10 +89,6 @@ A imagem do resultado também usa esses retratos e ícones. Sem eles, ela é ger
 
 HTML, CSS e JavaScript puros, em um único arquivo, sem bibliotecas nem etapa de build. A imagem é desenhada com Canvas no próprio navegador, sem geração por IA.
 
-## Rodando localmente
-
-Baixe o arquivo HTML, renomeie para `index.html` e abra no navegador. Não precisa de servidor.
-
 ## Publicando
 
 Por ser um arquivo estático, basta enviar o `index.html` para qualquer hospedagem estática, como Netlify, GitHub Pages ou Vercel. No Netlify, dá para arrastar a pasta com o arquivo na tela de deploy.
