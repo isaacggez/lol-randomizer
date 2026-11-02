@@ -89,10 +89,6 @@ A imagem do resultado também usa esses retratos e ícones. Sem eles, ela é ger
 
 HTML, CSS e JavaScript puros, em um único arquivo, sem bibliotecas nem etapa de build. A imagem é desenhada com Canvas no próprio navegador, sem geração por IA.
 
-## Publicando
-
-Por ser um arquivo estático, basta enviar o `index.html` para qualquer hospedagem estática, como Netlify, GitHub Pages ou Vercel. No Netlify, dá para arrastar a pasta com o arquivo na tela de deploy.
-
 ## Aviso legal
 
 O LoL Randomizer não é endossado pela Riot Games e não reflete as opiniões de ninguém oficialmente envolvido na produção ou no gerenciamento de propriedades da Riot Games. League of Legends e Riot Games são marcas registradas da Riot Games, Inc. Retratos e ícones pertencem à Riot Games.
